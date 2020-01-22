@@ -12,13 +12,6 @@
   "rules": {
     "curly": 2,
     "no-empty": 2,
-    "new-caps": {
-      "newIsCap": true,
-      "capIsNew": true,
-      "newIsCapExceptions": [
-        "autoComplete"
-      ]
-    },
     "no-constant-condition": 1,
     "no-mixed-spaces-and-tabs": [
       "error",
